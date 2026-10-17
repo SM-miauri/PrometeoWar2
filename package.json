@@ -1,0 +1,9 @@
+{
+  "name": "bosque-en-guerra",
+  "version": "1.0.0",
+  "description": "Juego multijugador de bosque: junta armas y peleá en la arena",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
